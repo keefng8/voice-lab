@@ -36,7 +36,7 @@ Windows keeps speech voices in two registry locations and pyttsx3 - which is wha
 
 ## Requirements
 
-None. A single HTML file — it runs in your browser, offline, and nothing leaves your machine.
+Python 3.8 or newer, and nothing else — the standard library only. No `pip install`, no model to download, no account.
 
 ## Building your own
 
