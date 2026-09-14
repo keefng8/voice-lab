@@ -1,0 +1,13 @@
+{
+  "name": "Voice Lab",
+  "description": "Hear every speech voice on this machine and find the ones your assistant cannot reach. Windows keeps voices in two registry locations and pyttsx3 reads only the older one, so the newer and usually better voices are installed, working, and invisible. Speaks through .NET System.Speech, so nothing needs installing.",
+  "entry": "main.py",
+  "mode": "launch",
+  "keywords": [
+    "open voice lab",
+    "change mavis's voice",
+    "what voices do i have",
+    "the voice sounds robotic"
+  ],
+  "category": "Audio Processing"
+}
